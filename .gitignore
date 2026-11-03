@@ -1,3 +1,4 @@
 /.history
-
 .superpowers/
+.env
+node_modules/
