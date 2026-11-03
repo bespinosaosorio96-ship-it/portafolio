@@ -41,13 +41,23 @@ The intent is to completely rebuild the portfolio into a distinctive, fast, and 
 - **Styling:** Tailwind CSS (utility-first, customized dark theme palette).
 - **Icons:** Lucide React (clean, lightweight, modern tech iconography).
 - **Asset Management:** Preserve existing assets (`fotopersonal.jpg`) and optimize for web.
-- **Palette:**
-  - Background Base: `#090d16` (Deep Obsidian / Charcoal)
-  - Card & Surface: `#111827` (Rich Slate/Zinc) with 1px border `#1f2937`
-  - Primary Accent: `#10b981` (Emerald Green — representing live terminals & stability)
-  - Secondary Accent: `#38bdf8` (Cyan / Sky — representing interactive links & tech tags)
-  - Highlight / AI: `#a855f7` (Purple / Violet)
+- **Palette (Cyber Dark Default):**
+  - Background Base: `#070a13` (Deep Obsidian / Charcoal)
+  - Card & Surface: `rgba(15, 23, 42, 0.65)` with 1px border `rgba(30, 41, 59, 0.8)`
+  - Primary Accent: `#10b981` (Emerald Green)
+  - Secondary Accent: `#38bdf8` (Cyan / Sky)
   - Text: `#f8fafc` (Headings/Primary), `#94a3b8` (Muted/Secondary)
+- **Palette (Matrix Mode Override):**
+  - Background Base: `#020603` (Deep Matrix Abyssal Black)
+  - Card & Surface: `rgba(3, 20, 8, 0.85)` with 1px border `rgba(0, 255, 102, 0.4)`
+  - Primary Accent: `#00ff66` (Phosphor Matrix Green)
+  - Secondary Accent: `#22c55e` (Emerald Green)
+  - Text: `#f0fdf4` (Headings/Primary), `#86efac` (Muted/Secondary)
+- **Interactive Canvas & Effects:**
+  - HTML5 Canvas Matrix Digital Rain running in background.
+  - Interactive 3D Spotlight cursor lighting on project cards.
+  - Dynamic typewriter effect for rotating developer roles in Hero.
+  - Toggle button and terminal command (`matrix`) to dynamically transition the whole color scheme between Cyber Dark and Matrix Green.
 
 ---
 
