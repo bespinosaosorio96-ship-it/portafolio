@@ -84,6 +84,8 @@ The intent is to completely rebuild the portfolio into a distinctive, fast, and 
     - `help` / `ayuda`: list of supported commands.
     - `skills`: outputs organized technical skills.
     - `projects`: outputs top repositories with clickable links.
+    - `matrix`: activates Matrix digital rain mode and shifts entire palette to neon green.
+    - `exit` / `quit` / `matrix-off`: exits Matrix mode and restores the standard Cyber Dark palette.
     - `contact`: outputs email and LinkedIn.
     - `clear`: clears terminal screen.
 
